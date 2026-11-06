@@ -1,0 +1,16 @@
+# tokenization_101 configuration — vocab sizes, corpora, languages, seeds.
+seed: 7
+
+bpe:
+  # Target vocabulary size for the demo tokenizer (256 byte tokens + merges).
+  vocab_size: 512
+  # Sizes used by the vocab-size trade-off study in notebook 06.
+  demo_vocab_sizes: [256, 512, 1024, 2048]
+
+corpora:
+  # Characters of English training text to tile for the from-scratch tokenizer.
+  training_chars: 200000
+
+cost:
+  # Illustrative API price, USD per 1,000 tokens, for the language-tax money view.
+  usd_per_1k_tokens: 0.01

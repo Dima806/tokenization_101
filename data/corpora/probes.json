@@ -1,0 +1,23 @@
+{
+  "spelling_words": [
+    "strawberry",
+    "mississippi",
+    "bookkeeper",
+    "unbelievable",
+    "tokenization",
+    "antidisestablishmentarianism"
+  ],
+  "number_strings": [
+    "1234567",
+    "1000000",
+    "42424242",
+    "3.14159",
+    "1234 + 5678",
+    "The year 2024 had 366 days."
+  ],
+  "code_snippets": [
+    "def add(a, b):\n    return a + b",
+    "for i in range(10):\n    print(i)",
+    "x = {'key': [1, 2, 3], 'flag': True}"
+  ]
+}

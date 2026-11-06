@@ -1,0 +1,106 @@
+[
+  {
+    "word": "strawberry",
+    "num_characters": 10,
+    "num_tokens": 8,
+    "pieces": [
+      "st",
+      "r",
+      "a",
+      "w",
+      "b",
+      "er",
+      "r",
+      "y"
+    ],
+    "characters_visible": false
+  },
+  {
+    "word": "mississippi",
+    "num_characters": 11,
+    "num_tokens": 8,
+    "pieces": [
+      "mi",
+      "s",
+      "si",
+      "s",
+      "si",
+      "p",
+      "p",
+      "i"
+    ],
+    "characters_visible": false
+  },
+  {
+    "word": "bookkeeper",
+    "num_characters": 10,
+    "num_tokens": 8,
+    "pieces": [
+      "b",
+      "o",
+      "ok",
+      "k",
+      "e",
+      "e",
+      "p",
+      "er"
+    ],
+    "characters_visible": false
+  },
+  {
+    "word": "unbelievable",
+    "num_characters": 12,
+    "num_tokens": 8,
+    "pieces": [
+      "un",
+      "be",
+      "li",
+      "e",
+      "v",
+      "a",
+      "b",
+      "le"
+    ],
+    "characters_visible": false
+  },
+  {
+    "word": "tokenization",
+    "num_characters": 12,
+    "num_tokens": 5,
+    "pieces": [
+      "token",
+      "iz",
+      "at",
+      "i",
+      "on"
+    ],
+    "characters_visible": false
+  },
+  {
+    "word": "antidisestablishmentarianism",
+    "num_characters": 28,
+    "num_tokens": 19,
+    "pieces": [
+      "an",
+      "t",
+      "i",
+      "d",
+      "i",
+      "se",
+      "st",
+      "a",
+      "b",
+      "li",
+      "s",
+      "h",
+      "m",
+      "ent",
+      "ar",
+      "i",
+      "an",
+      "is",
+      "m"
+    ],
+    "characters_visible": false
+  }
+]

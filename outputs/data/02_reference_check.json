@@ -1,0 +1,8 @@
+{
+  "reference_available": true,
+  "text": "tokenization is compression",
+  "ours_roundtrip_ok": true,
+  "reference_roundtrip_ok": true,
+  "ours_tokens": 13,
+  "reference_tokens": 4
+}

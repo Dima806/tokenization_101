@@ -1,0 +1,31 @@
+{
+  "text": "the model reads tokens, not letters",
+  "token_ids": [
+    276,
+    256,
+    510,
+    32,
+    312,
+    115,
+    313,
+    456,
+    314,
+    341,
+    115
+  ],
+  "pieces": [
+    "th",
+    "e ",
+    "model",
+    " ",
+    "read",
+    "s",
+    " token",
+    "s, ",
+    "not ",
+    "letter",
+    "s"
+  ],
+  "decoded": "the model reads tokens, not letters",
+  "roundtrip_ok": true
+}

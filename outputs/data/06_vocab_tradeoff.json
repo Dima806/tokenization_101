@@ -1,0 +1,32 @@
+[
+  {
+    "vocab_size": 256,
+    "merges": 0,
+    "heldout_tokens": 75
+  },
+  {
+    "vocab_size": 320,
+    "merges": 64,
+    "heldout_tokens": 40
+  },
+  {
+    "vocab_size": 512,
+    "merges": 256,
+    "heldout_tokens": 27
+  },
+  {
+    "vocab_size": 768,
+    "merges": 512,
+    "heldout_tokens": 26
+  },
+  {
+    "vocab_size": 1024,
+    "merges": 768,
+    "heldout_tokens": 26
+  },
+  {
+    "vocab_size": 1477,
+    "merges": 1221,
+    "heldout_tokens": 26
+  }
+]

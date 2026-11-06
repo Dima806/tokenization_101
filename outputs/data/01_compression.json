@@ -1,0 +1,26 @@
+[
+  {
+    "label": "English prose",
+    "chars": 43,
+    "tokens": 9,
+    "tokens_per_char": 0.209
+  },
+  {
+    "label": "Python code",
+    "chars": 31,
+    "tokens": 15,
+    "tokens_per_char": 0.484
+  },
+  {
+    "label": "Repeated word",
+    "chars": 23,
+    "tokens": 6,
+    "tokens_per_char": 0.261
+  },
+  {
+    "label": "Spanish",
+    "chars": 29,
+    "tokens": 11,
+    "tokens_per_char": 0.379
+  }
+]

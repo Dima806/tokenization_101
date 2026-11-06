@@ -1,0 +1,2306 @@
+[
+  {
+    "rank": 0,
+    "pair": [
+      101,
+      32
+    ],
+    "new_id": 256,
+    "piece": "e·"
+  },
+  {
+    "rank": 1,
+    "pair": [
+      32,
+      116
+    ],
+    "new_id": 257,
+    "piece": "·t"
+  },
+  {
+    "rank": 2,
+    "pair": [
+      32,
+      97
+    ],
+    "new_id": 258,
+    "piece": "·a"
+  },
+  {
+    "rank": 3,
+    "pair": [
+      257,
+      104
+    ],
+    "new_id": 259,
+    "piece": "·th"
+  },
+  {
+    "rank": 4,
+    "pair": [
+      105,
+      110
+    ],
+    "new_id": 260,
+    "piece": "in"
+  },
+  {
+    "rank": 5,
+    "pair": [
+      115,
+      32
+    ],
+    "new_id": 261,
+    "piece": "s·"
+  },
+  {
+    "rank": 6,
+    "pair": [
+      116,
+      32
+    ],
+    "new_id": 262,
+    "piece": "t·"
+  },
+  {
+    "rank": 7,
+    "pair": [
+      101,
+      114
+    ],
+    "new_id": 263,
+    "piece": "er"
+  },
+  {
+    "rank": 8,
+    "pair": [
+      110,
+      100
+    ],
+    "new_id": 264,
+    "piece": "nd"
+  },
+  {
+    "rank": 9,
+    "pair": [
+      259,
+      256
+    ],
+    "new_id": 265,
+    "piece": "·the·"
+  },
+  {
+    "rank": 10,
+    "pair": [
+      111,
+      114
+    ],
+    "new_id": 266,
+    "piece": "or"
+  },
+  {
+    "rank": 11,
+    "pair": [
+      97,
+      114
+    ],
+    "new_id": 267,
+    "piece": "ar"
+  },
+  {
+    "rank": 12,
+    "pair": [
+      101,
+      110
+    ],
+    "new_id": 268,
+    "piece": "en"
+  },
+  {
+    "rank": 13,
+    "pair": [
+      32,
+      115
+    ],
+    "new_id": 269,
+    "piece": "·s"
+  },
+  {
+    "rank": 14,
+    "pair": [
+      111,
+      117
+    ],
+    "new_id": 270,
+    "piece": "ou"
+  },
+  {
+    "rank": 15,
+    "pair": [
+      260,
+      103
+    ],
+    "new_id": 271,
+    "piece": "ing"
+  },
+  {
+    "rank": 16,
+    "pair": [
+      111,
+      110
+    ],
+    "new_id": 272,
+    "piece": "on"
+  },
+  {
+    "rank": 17,
+    "pair": [
+      32,
+      119
+    ],
+    "new_id": 273,
+    "piece": "·w"
+  },
+  {
+    "rank": 18,
+    "pair": [
+      258,
+      264
+    ],
+    "new_id": 274,
+    "piece": "·and"
+  },
+  {
+    "rank": 19,
+    "pair": [
+      97,
+      110
+    ],
+    "new_id": 275,
+    "piece": "an"
+  },
+  {
+    "rank": 20,
+    "pair": [
+      116,
+      104
+    ],
+    "new_id": 276,
+    "piece": "th"
+  },
+  {
+    "rank": 21,
+    "pair": [
+      46,
+      32
+    ],
+    "new_id": 277,
+    "piece": ".·"
+  },
+  {
+    "rank": 22,
+    "pair": [
+      32,
+      99
+    ],
+    "new_id": 278,
+    "piece": "·c"
+  },
+  {
+    "rank": 23,
+    "pair": [
+      114,
+      101
+    ],
+    "new_id": 279,
+    "piece": "re"
+  },
+  {
+    "rank": 24,
+    "pair": [
+      108,
+      101
+    ],
+    "new_id": 280,
+    "piece": "le"
+  },
+  {
+    "rank": 25,
+    "pair": [
+      257,
+      111
+    ],
+    "new_id": 281,
+    "piece": "·to"
+  },
+  {
+    "rank": 26,
+    "pair": [
+      115,
+      258
+    ],
+    "new_id": 282,
+    "piece": "s·a"
+  },
+  {
+    "rank": 27,
+    "pair": [
+      111,
+      102
+    ],
+    "new_id": 283,
+    "piece": "of"
+  },
+  {
+    "rank": 28,
+    "pair": [
+      44,
+      274
+    ],
+    "new_id": 284,
+    "piece": ",·and"
+  },
+  {
+    "rank": 29,
+    "pair": [
+      115,
+      116
+    ],
+    "new_id": 285,
+    "piece": "st"
+  },
+  {
+    "rank": 30,
+    "pair": [
+      110,
+      111
+    ],
+    "new_id": 286,
+    "piece": "no"
+  },
+  {
+    "rank": 31,
+    "pair": [
+      271,
+      32
+    ],
+    "new_id": 287,
+    "piece": "ing·"
+  },
+  {
+    "rank": 32,
+    "pair": [
+      109,
+      101
+    ],
+    "new_id": 288,
+    "piece": "me"
+  },
+  {
+    "rank": 33,
+    "pair": [
+      32,
+      112
+    ],
+    "new_id": 289,
+    "piece": "·p"
+  },
+  {
+    "rank": 34,
+    "pair": [
+      104,
+      111
+    ],
+    "new_id": 290,
+    "piece": "ho"
+  },
+  {
+    "rank": 35,
+    "pair": [
+      107,
+      268
+    ],
+    "new_id": 291,
+    "piece": "ken"
+  },
+  {
+    "rank": 36,
+    "pair": [
+      108,
+      108
+    ],
+    "new_id": 292,
+    "piece": "ll"
+  },
+  {
+    "rank": 37,
+    "pair": [
+      108,
+      256
+    ],
+    "new_id": 293,
+    "piece": "le·"
+  },
+  {
+    "rank": 38,
+    "pair": [
+      98,
+      101
+    ],
+    "new_id": 294,
+    "piece": "be"
+  },
+  {
+    "rank": 39,
+    "pair": [
+      105,
+      261
+    ],
+    "new_id": 295,
+    "piece": "is·"
+  },
+  {
+    "rank": 40,
+    "pair": [
+      118,
+      263
+    ],
+    "new_id": 296,
+    "piece": "ver"
+  },
+  {
+    "rank": 41,
+    "pair": [
+      103,
+      256
+    ],
+    "new_id": 297,
+    "piece": "ge·"
+  },
+  {
+    "rank": 42,
+    "pair": [
+      258,
+      32
+    ],
+    "new_id": 298,
+    "piece": "·a·"
+  },
+  {
+    "rank": 43,
+    "pair": [
+      44,
+      32
+    ],
+    "new_id": 299,
+    "piece": ",·"
+  },
+  {
+    "rank": 44,
+    "pair": [
+      108,
+      121
+    ],
+    "new_id": 300,
+    "piece": "ly"
+  },
+  {
+    "rank": 45,
+    "pair": [
+      101,
+      100
+    ],
+    "new_id": 301,
+    "piece": "ed"
+  },
+  {
+    "rank": 46,
+    "pair": [
+      32,
+      109
+    ],
+    "new_id": 302,
+    "piece": "·m"
+  },
+  {
+    "rank": 47,
+    "pair": [
+      97,
+      100
+    ],
+    "new_id": 303,
+    "piece": "ad"
+  },
+  {
+    "rank": 48,
+    "pair": [
+      259,
+      97
+    ],
+    "new_id": 304,
+    "piece": "·tha"
+  },
+  {
+    "rank": 49,
+    "pair": [
+      266,
+      100
+    ],
+    "new_id": 305,
+    "piece": "ord"
+  },
+  {
+    "rank": 50,
+    "pair": [
+      121,
+      270
+    ],
+    "new_id": 306,
+    "piece": "you"
+  },
+  {
+    "rank": 51,
+    "pair": [
+      101,
+      108
+    ],
+    "new_id": 307,
+    "piece": "el"
+  },
+  {
+    "rank": 52,
+    "pair": [
+      109,
+      97
+    ],
+    "new_id": 308,
+    "piece": "ma"
+  },
+  {
+    "rank": 53,
+    "pair": [
+      114,
+      105
+    ],
+    "new_id": 309,
+    "piece": "ri"
+  },
+  {
+    "rank": 54,
+    "pair": [
+      116,
+      263
+    ],
+    "new_id": 310,
+    "piece": "ter"
+  },
+  {
+    "rank": 55,
+    "pair": [
+      256,
+      276
+    ],
+    "new_id": 311,
+    "piece": "e·th"
+  },
+  {
+    "rank": 56,
+    "pair": [
+      279,
+      303
+    ],
+    "new_id": 312,
+    "piece": "read"
+  },
+  {
+    "rank": 57,
+    "pair": [
+      281,
+      291
+    ],
+    "new_id": 313,
+    "piece": "·token"
+  },
+  {
+    "rank": 58,
+    "pair": [
+      286,
+      262
+    ],
+    "new_id": 314,
+    "piece": "not·"
+  },
+  {
+    "rank": 59,
+    "pair": [
+      32,
+      102
+    ],
+    "new_id": 315,
+    "piece": "·f"
+  },
+  {
+    "rank": 60,
+    "pair": [
+      97,
+      112
+    ],
+    "new_id": 316,
+    "piece": "ap"
+  },
+  {
+    "rank": 61,
+    "pair": [
+      99,
+      104
+    ],
+    "new_id": 317,
+    "piece": "ch"
+  },
+  {
+    "rank": 62,
+    "pair": [
+      103,
+      101
+    ],
+    "new_id": 318,
+    "piece": "ge"
+  },
+  {
+    "rank": 63,
+    "pair": [
+      108,
+      105
+    ],
+    "new_id": 319,
+    "piece": "li"
+  },
+  {
+    "rank": 64,
+    "pair": [
+      109,
+      111
+    ],
+    "new_id": 320,
+    "piece": "mo"
+  },
+  {
+    "rank": 65,
+    "pair": [
+      117,
+      97
+    ],
+    "new_id": 321,
+    "piece": "ua"
+  },
+  {
+    "rank": 66,
+    "pair": [
+      304,
+      262
+    ],
+    "new_id": 322,
+    "piece": "·that·"
+  },
+  {
+    "rank": 67,
+    "pair": [
+      311,
+      256
+    ],
+    "new_id": 323,
+    "piece": "e·the·"
+  },
+  {
+    "rank": 68,
+    "pair": [
+      46,
+      10
+    ],
+    "new_id": 324,
+    "piece": ".\n"
+  },
+  {
+    "rank": 69,
+    "pair": [
+      109,
+      112
+    ],
+    "new_id": 325,
+    "piece": "mp"
+  },
+  {
+    "rank": 70,
+    "pair": [
+      115,
+      105
+    ],
+    "new_id": 326,
+    "piece": "si"
+  },
+  {
+    "rank": 71,
+    "pair": [
+      117,
+      110
+    ],
+    "new_id": 327,
+    "piece": "un"
+  },
+  {
+    "rank": 72,
+    "pair": [
+      32,
+      101
+    ],
+    "new_id": 328,
+    "piece": "·e"
+  },
+  {
+    "rank": 73,
+    "pair": [
+      32,
+      272
+    ],
+    "new_id": 329,
+    "piece": "·on"
+  },
+  {
+    "rank": 74,
+    "pair": [
+      84,
+      104
+    ],
+    "new_id": 330,
+    "piece": "Th"
+  },
+  {
+    "rank": 75,
+    "pair": [
+      99,
+      111
+    ],
+    "new_id": 331,
+    "piece": "co"
+  },
+  {
+    "rank": 76,
+    "pair": [
+      99,
+      256
+    ],
+    "new_id": 332,
+    "piece": "ce·"
+  },
+  {
+    "rank": 77,
+    "pair": [
+      102,
+      97
+    ],
+    "new_id": 333,
+    "piece": "fa"
+  },
+  {
+    "rank": 78,
+    "pair": [
+      103,
+      321
+    ],
+    "new_id": 334,
+    "piece": "gua"
+  },
+  {
+    "rank": 79,
+    "pair": [
+      108,
+      100
+    ],
+    "new_id": 335,
+    "piece": "ld"
+  },
+  {
+    "rank": 80,
+    "pair": [
+      108,
+      111
+    ],
+    "new_id": 336,
+    "piece": "lo"
+  },
+  {
+    "rank": 81,
+    "pair": [
+      116,
+      111
+    ],
+    "new_id": 337,
+    "piece": "to"
+  },
+  {
+    "rank": 82,
+    "pair": [
+      116,
+      310
+    ],
+    "new_id": 338,
+    "piece": "tter"
+  },
+  {
+    "rank": 83,
+    "pair": [
+      275,
+      334
+    ],
+    "new_id": 339,
+    "piece": "angua"
+  },
+  {
+    "rank": 84,
+    "pair": [
+      278,
+      104
+    ],
+    "new_id": 340,
+    "piece": "·ch"
+  },
+  {
+    "rank": 85,
+    "pair": [
+      280,
+      338
+    ],
+    "new_id": 341,
+    "piece": "letter"
+  },
+  {
+    "rank": 86,
+    "pair": [
+      330,
+      256
+    ],
+    "new_id": 342,
+    "piece": "The·"
+  },
+  {
+    "rank": 87,
+    "pair": [
+      339,
+      297
+    ],
+    "new_id": 343,
+    "piece": "anguage·"
+  },
+  {
+    "rank": 88,
+    "pair": [
+      97,
+      264
+    ],
+    "new_id": 344,
+    "piece": "and"
+  },
+  {
+    "rank": 89,
+    "pair": [
+      102,
+      266
+    ],
+    "new_id": 345,
+    "piece": "for"
+  },
+  {
+    "rank": 90,
+    "pair": [
+      111,
+      115
+    ],
+    "new_id": 346,
+    "piece": "os"
+  },
+  {
+    "rank": 91,
+    "pair": [
+      269,
+      116
+    ],
+    "new_id": 347,
+    "piece": "·st"
+  },
+  {
+    "rank": 92,
+    "pair": [
+      104,
+      316
+    ],
+    "new_id": 348,
+    "piece": "hap"
+  },
+  {
+    "rank": 93,
+    "pair": [
+      107,
+      261
+    ],
+    "new_id": 349,
+    "piece": "ks·"
+  },
+  {
+    "rank": 94,
+    "pair": [
+      105,
+      262
+    ],
+    "new_id": 350,
+    "piece": "it·"
+  },
+  {
+    "rank": 95,
+    "pair": [
+      32,
+      283
+    ],
+    "new_id": 351,
+    "piece": "·of"
+  },
+  {
+    "rank": 96,
+    "pair": [
+      32,
+      306
+    ],
+    "new_id": 352,
+    "piece": "·you"
+  },
+  {
+    "rank": 97,
+    "pair": [
+      97,
+      116
+    ],
+    "new_id": 353,
+    "piece": "at"
+  },
+  {
+    "rank": 98,
+    "pair": [
+      99,
+      275
+    ],
+    "new_id": 354,
+    "piece": "can"
+  },
+  {
+    "rank": 99,
+    "pair": [
+      101,
+      115
+    ],
+    "new_id": 355,
+    "piece": "es"
+  },
+  {
+    "rank": 100,
+    "pair": [
+      101,
+      116
+    ],
+    "new_id": 356,
+    "piece": "et"
+  },
+  {
+    "rank": 101,
+    "pair": [
+      105,
+      114
+    ],
+    "new_id": 357,
+    "piece": "ir"
+  },
+  {
+    "rank": 102,
+    "pair": [
+      108,
+      343
+    ],
+    "new_id": 358,
+    "piece": "language·"
+  },
+  {
+    "rank": 103,
+    "pair": [
+      109,
+      98
+    ],
+    "new_id": 359,
+    "piece": "mb"
+  },
+  {
+    "rank": 104,
+    "pair": [
+      110,
+      101
+    ],
+    "new_id": 360,
+    "piece": "ne"
+  },
+  {
+    "rank": 105,
+    "pair": [
+      258,
+      273
+    ],
+    "new_id": 361,
+    "piece": "·a·w"
+  },
+  {
+    "rank": 106,
+    "pair": [
+      262,
+      283
+    ],
+    "new_id": 362,
+    "piece": "t·of"
+  },
+  {
+    "rank": 107,
+    "pair": [
+      263,
+      32
+    ],
+    "new_id": 363,
+    "piece": "er·"
+  },
+  {
+    "rank": 108,
+    "pair": [
+      270,
+      110
+    ],
+    "new_id": 364,
+    "piece": "oun"
+  },
+  {
+    "rank": 109,
+    "pair": [
+      277,
+      342
+    ],
+    "new_id": 365,
+    "piece": ".·The·"
+  },
+  {
+    "rank": 110,
+    "pair": [
+      308,
+      292
+    ],
+    "new_id": 366,
+    "piece": "mall"
+  },
+  {
+    "rank": 111,
+    "pair": [
+      341,
+      261
+    ],
+    "new_id": 367,
+    "piece": "letters·"
+  },
+  {
+    "rank": 112,
+    "pair": [
+      32,
+      98
+    ],
+    "new_id": 368,
+    "piece": "·b"
+  },
+  {
+    "rank": 113,
+    "pair": [
+      108,
+      272
+    ],
+    "new_id": 369,
+    "piece": "lon"
+  },
+  {
+    "rank": 114,
+    "pair": [
+      116,
+      101
+    ],
+    "new_id": 370,
+    "piece": "te"
+  },
+  {
+    "rank": 115,
+    "pair": [
+      117,
+      112
+    ],
+    "new_id": 371,
+    "piece": "up"
+  },
+  {
+    "rank": 116,
+    "pair": [
+      369,
+      103
+    ],
+    "new_id": 372,
+    "piece": "long"
+  },
+  {
+    "rank": 117,
+    "pair": [
+      32,
+      100
+    ],
+    "new_id": 373,
+    "piece": "·d"
+  },
+  {
+    "rank": 118,
+    "pair": [
+      32,
+      104
+    ],
+    "new_id": 374,
+    "piece": "·h"
+  },
+  {
+    "rank": 119,
+    "pair": [
+      32,
+      105
+    ],
+    "new_id": 375,
+    "piece": "·i"
+  },
+  {
+    "rank": 120,
+    "pair": [
+      32,
+      260
+    ],
+    "new_id": 376,
+    "piece": "·in"
+  },
+  {
+    "rank": 121,
+    "pair": [
+      44,
+      265
+    ],
+    "new_id": 377,
+    "piece": ",·the·"
+  },
+  {
+    "rank": 122,
+    "pair": [
+      97,
+      260
+    ],
+    "new_id": 378,
+    "piece": "ain"
+  },
+  {
+    "rank": 123,
+    "pair": [
+      100,
+      307
+    ],
+    "new_id": 379,
+    "piece": "del"
+  },
+  {
+    "rank": 124,
+    "pair": [
+      101,
+      109
+    ],
+    "new_id": 380,
+    "piece": "em"
+  },
+  {
+    "rank": 125,
+    "pair": [
+      101,
+      267
+    ],
+    "new_id": 381,
+    "piece": "ear"
+  },
+  {
+    "rank": 126,
+    "pair": [
+      103,
+      104
+    ],
+    "new_id": 382,
+    "piece": "gh"
+  },
+  {
+    "rank": 127,
+    "pair": [
+      103,
+      378
+    ],
+    "new_id": 383,
+    "piece": "gain"
+  },
+  {
+    "rank": 128,
+    "pair": [
+      105,
+      108
+    ],
+    "new_id": 384,
+    "piece": "il"
+  },
+  {
+    "rank": 129,
+    "pair": [
+      109,
+      105
+    ],
+    "new_id": 385,
+    "piece": "mi"
+  },
+  {
+    "rank": 130,
+    "pair": [
+      109,
+      109
+    ],
+    "new_id": 386,
+    "piece": "mm"
+  },
+  {
+    "rank": 131,
+    "pair": [
+      111,
+      107
+    ],
+    "new_id": 387,
+    "piece": "ok"
+  },
+  {
+    "rank": 132,
+    "pair": [
+      111,
+      112
+    ],
+    "new_id": 388,
+    "piece": "op"
+  },
+  {
+    "rank": 133,
+    "pair": [
+      111,
+      276
+    ],
+    "new_id": 389,
+    "piece": "oth"
+  },
+  {
+    "rank": 134,
+    "pair": [
+      112,
+      97
+    ],
+    "new_id": 390,
+    "piece": "pa"
+  },
+  {
+    "rank": 135,
+    "pair": [
+      115,
+      101
+    ],
+    "new_id": 391,
+    "piece": "se"
+  },
+  {
+    "rank": 136,
+    "pair": [
+      120,
+      116
+    ],
+    "new_id": 392,
+    "piece": "xt"
+  },
+  {
+    "rank": 137,
+    "pair": [
+      256,
+      97
+    ],
+    "new_id": 393,
+    "piece": "e·a"
+  },
+  {
+    "rank": 138,
+    "pair": [
+      257,
+      114
+    ],
+    "new_id": 394,
+    "piece": "·tr"
+  },
+  {
+    "rank": 139,
+    "pair": [
+      258,
+      114
+    ],
+    "new_id": 395,
+    "piece": "·ar"
+  },
+  {
+    "rank": 140,
+    "pair": [
+      258,
+      383
+    ],
+    "new_id": 396,
+    "piece": "·again"
+  },
+  {
+    "rank": 141,
+    "pair": [
+      260,
+      100
+    ],
+    "new_id": 397,
+    "piece": "ind"
+  },
+  {
+    "rank": 142,
+    "pair": [
+      265,
+      99
+    ],
+    "new_id": 398,
+    "piece": "·the·c"
+  },
+  {
+    "rank": 143,
+    "pair": [
+      266,
+      110
+    ],
+    "new_id": 399,
+    "piece": "orn"
+  },
+  {
+    "rank": 144,
+    "pair": [
+      269,
+      111
+    ],
+    "new_id": 400,
+    "piece": "·so"
+  },
+  {
+    "rank": 145,
+    "pair": [
+      273,
+      290
+    ],
+    "new_id": 401,
+    "piece": "·who"
+  },
+  {
+    "rank": 146,
+    "pair": [
+      275,
+      297
+    ],
+    "new_id": 402,
+    "piece": "ange·"
+  },
+  {
+    "rank": 147,
+    "pair": [
+      277,
+      65
+    ],
+    "new_id": 403,
+    "piece": ".·A"
+  },
+  {
+    "rank": 148,
+    "pair": [
+      282,
+      313
+    ],
+    "new_id": 404,
+    "piece": "s·a·token"
+  },
+  {
+    "rank": 149,
+    "pair": [
+      284,
+      258
+    ],
+    "new_id": 405,
+    "piece": ",·and·a"
+  },
+  {
+    "rank": 150,
+    "pair": [
+      284,
+      265
+    ],
+    "new_id": 406,
+    "piece": ",·and·the·"
+  },
+  {
+    "rank": 151,
+    "pair": [
+      288,
+      404
+    ],
+    "new_id": 407,
+    "piece": "mes·a·token"
+  },
+  {
+    "rank": 152,
+    "pair": [
+      294,
+      331
+    ],
+    "new_id": 408,
+    "piece": "beco"
+  },
+  {
+    "rank": 153,
+    "pair": [
+      315,
+      101
+    ],
+    "new_id": 409,
+    "piece": "·fe"
+  },
+  {
+    "rank": 154,
+    "pair": [
+      336,
+      387
+    ],
+    "new_id": 410,
+    "piece": "look"
+  },
+  {
+    "rank": 155,
+    "pair": [
+      337,
+      291
+    ],
+    "new_id": 411,
+    "piece": "token"
+  },
+  {
+    "rank": 156,
+    "pair": [
+      354,
+      314
+    ],
+    "new_id": 412,
+    "piece": "cannot·"
+  },
+  {
+    "rank": 157,
+    "pair": [
+      386,
+      272
+    ],
+    "new_id": 413,
+    "piece": "mmon"
+  },
+  {
+    "rank": 158,
+    "pair": [
+      408,
+      407
+    ],
+    "new_id": 414,
+    "piece": "becomes·a·token"
+  },
+  {
+    "rank": 159,
+    "pair": [
+      73,
+      262
+    ],
+    "new_id": 415,
+    "piece": "It·"
+  },
+  {
+    "rank": 160,
+    "pair": [
+      113,
+      117
+    ],
+    "new_id": 416,
+    "piece": "qu"
+  },
+  {
+    "rank": 161,
+    "pair": [
+      256,
+      115
+    ],
+    "new_id": 417,
+    "piece": "e·s"
+  },
+  {
+    "rank": 162,
+    "pair": [
+      267,
+      110
+    ],
+    "new_id": 418,
+    "piece": "arn"
+  },
+  {
+    "rank": 163,
+    "pair": [
+      277,
+      415
+    ],
+    "new_id": 419,
+    "piece": ".·It·"
+  },
+  {
+    "rank": 164,
+    "pair": [
+      280,
+      418
+    ],
+    "new_id": 420,
+    "piece": "learn"
+  },
+  {
+    "rank": 165,
+    "pair": [
+      284,
+      259
+    ],
+    "new_id": 421,
+    "piece": ",·and·th"
+  },
+  {
+    "rank": 166,
+    "pair": [
+      294,
+      345
+    ],
+    "new_id": 422,
+    "piece": "befor"
+  },
+  {
+    "rank": 167,
+    "pair": [
+      295,
+      326
+    ],
+    "new_id": 423,
+    "piece": "is·si"
+  },
+  {
+    "rank": 168,
+    "pair": [
+      296,
+      32
+    ],
+    "new_id": 424,
+    "piece": "ver·"
+  },
+  {
+    "rank": 169,
+    "pair": [
+      423,
+      325
+    ],
+    "new_id": 425,
+    "piece": "is·simp"
+  },
+  {
+    "rank": 170,
+    "pair": [
+      327,
+      349
+    ],
+    "new_id": 426,
+    "piece": "unks·"
+  },
+  {
+    "rank": 171,
+    "pair": [
+      32,
+      103
+    ],
+    "new_id": 427,
+    "piece": "·g"
+  },
+  {
+    "rank": 172,
+    "pair": [
+      32,
+      290
+    ],
+    "new_id": 428,
+    "piece": "·ho"
+  },
+  {
+    "rank": 173,
+    "pair": [
+      32,
+      305
+    ],
+    "new_id": 429,
+    "piece": "·ord"
+  },
+  {
+    "rank": 174,
+    "pair": [
+      32,
+      314
+    ],
+    "new_id": 430,
+    "piece": "·not·"
+  },
+  {
+    "rank": 175,
+    "pair": [
+      44,
+      400
+    ],
+    "new_id": 431,
+    "piece": ",·so"
+  },
+  {
+    "rank": 176,
+    "pair": [
+      89,
+      270
+    ],
+    "new_id": 432,
+    "piece": "You"
+  },
+  {
+    "rank": 177,
+    "pair": [
+      97,
+      115
+    ],
+    "new_id": 433,
+    "piece": "as"
+  },
+  {
+    "rank": 178,
+    "pair": [
+      97,
+      121
+    ],
+    "new_id": 434,
+    "piece": "ay"
+  },
+  {
+    "rank": 179,
+    "pair": [
+      97,
+      317
+    ],
+    "new_id": 435,
+    "piece": "ach"
+  },
+  {
+    "rank": 180,
+    "pair": [
+      101,
+      261
+    ],
+    "new_id": 436,
+    "piece": "es·"
+  },
+  {
+    "rank": 181,
+    "pair": [
+      101,
+      264
+    ],
+    "new_id": 437,
+    "piece": "end"
+  },
+  {
+    "rank": 182,
+    "pair": [
+      101,
+      388
+    ],
+    "new_id": 438,
+    "piece": "eop"
+  },
+  {
+    "rank": 183,
+    "pair": [
+      102,
+      105
+    ],
+    "new_id": 439,
+    "piece": "fi"
+  },
+  {
+    "rank": 184,
+    "pair": [
+      103,
+      105
+    ],
+    "new_id": 440,
+    "piece": "gi"
+  },
+  {
+    "rank": 185,
+    "pair": [
+      104,
+      268
+    ],
+    "new_id": 441,
+    "piece": "hen"
+  },
+  {
+    "rank": 186,
+    "pair": [
+      104,
+      397
+    ],
+    "new_id": 442,
+    "piece": "hind"
+  },
+  {
+    "rank": 187,
+    "pair": [
+      105,
+      115
+    ],
+    "new_id": 443,
+    "piece": "is"
+  },
+  {
+    "rank": 188,
+    "pair": [
+      105,
+      122
+    ],
+    "new_id": 444,
+    "piece": "iz"
+  },
+  {
+    "rank": 189,
+    "pair": [
+      105,
+      356
+    ],
+    "new_id": 445,
+    "piece": "iet"
+  },
+  {
+    "rank": 190,
+    "pair": [
+      107,
+      256
+    ],
+    "new_id": 446,
+    "piece": "ke·"
+  },
+  {
+    "rank": 191,
+    "pair": [
+      109,
+      267
+    ],
+    "new_id": 447,
+    "piece": "mar"
+  },
+  {
+    "rank": 192,
+    "pair": [
+      111,
+      100
+    ],
+    "new_id": 448,
+    "piece": "od"
+  },
+  {
+    "rank": 193,
+    "pair": [
+      111,
+      108
+    ],
+    "new_id": 449,
+    "piece": "ol"
+  },
+  {
+    "rank": 194,
+    "pair": [
+      111,
+      335
+    ],
+    "new_id": 450,
+    "piece": "old"
+  },
+  {
+    "rank": 195,
+    "pair": [
+      111,
+      448
+    ],
+    "new_id": 451,
+    "piece": "ood"
+  },
+  {
+    "rank": 196,
+    "pair": [
+      112,
+      267
+    ],
+    "new_id": 452,
+    "piece": "par"
+  },
+  {
+    "rank": 197,
+    "pair": [
+      114,
+      402
+    ],
+    "new_id": 453,
+    "piece": "range·"
+  },
+  {
+    "rank": 198,
+    "pair": [
+      115,
+      265
+    ],
+    "new_id": 454,
+    "piece": "s·the·"
+  },
+  {
+    "rank": 199,
+    "pair": [
+      115,
+      274
+    ],
+    "new_id": 455,
+    "piece": "s·and"
+  },
+  {
+    "rank": 200,
+    "pair": [
+      115,
+      299
+    ],
+    "new_id": 456,
+    "piece": "s,·"
+  },
+  {
+    "rank": 201,
+    "pair": [
+      116,
+      258
+    ],
+    "new_id": 457,
+    "piece": "t·a"
+  },
+  {
+    "rank": 202,
+    "pair": [
+      116,
+      265
+    ],
+    "new_id": 458,
+    "piece": "t·the·"
+  },
+  {
+    "rank": 203,
+    "pair": [
+      117,
+      115
+    ],
+    "new_id": 459,
+    "piece": "us"
+  },
+  {
+    "rank": 204,
+    "pair": [
+      117,
+      359
+    ],
+    "new_id": 460,
+    "piece": "umb"
+  },
+  {
+    "rank": 205,
+    "pair": [
+      119,
+      256
+    ],
+    "new_id": 461,
+    "piece": "we·"
+  },
+  {
+    "rank": 206,
+    "pair": [
+      119,
+      300
+    ],
+    "new_id": 462,
+    "piece": "wly"
+  },
+  {
+    "rank": 207,
+    "pair": [
+      119,
+      305
+    ],
+    "new_id": 463,
+    "piece": "word"
+  },
+  {
+    "rank": 208,
+    "pair": [
+      121,
+      32
+    ],
+    "new_id": 464,
+    "piece": "y·"
+  },
+  {
+    "rank": 209,
+    "pair": [
+      121,
+      274
+    ],
+    "new_id": 465,
+    "piece": "y·and"
+  },
+  {
+    "rank": 210,
+    "pair": [
+      121,
+      359
+    ],
+    "new_id": 466,
+    "piece": "ymb"
+  },
+  {
+    "rank": 211,
+    "pair": [
+      256,
+      345
+    ],
+    "new_id": 467,
+    "piece": "e·for"
+  },
+  {
+    "rank": 212,
+    "pair": [
+      257,
+      105
+    ],
+    "new_id": 468,
+    "piece": "·ti"
+  },
+  {
+    "rank": 213,
+    "pair": [
+      258,
+      278
+    ],
+    "new_id": 469,
+    "piece": "·a·c"
+  },
+  {
+    "rank": 214,
+    "pair": [
+      259,
+      260
+    ],
+    "new_id": 470,
+    "piece": "·thin"
+  },
+  {
+    "rank": 215,
+    "pair": [
+      259,
+      271
+    ],
+    "new_id": 471,
+    "piece": "·thing"
+  },
+  {
+    "rank": 216,
+    "pair": [
+      259,
+      275
+    ],
+    "new_id": 472,
+    "piece": "·than"
+  },
+  {
+    "rank": 217,
+    "pair": [
+      260,
+      267
+    ],
+    "new_id": 473,
+    "piece": "inar"
+  },
+  {
+    "rank": 218,
+    "pair": [
+      260,
+      361
+    ],
+    "new_id": 474,
+    "piece": "in·a·w"
+  },
+  {
+    "rank": 219,
+    "pair": [
+      261,
+      119
+    ],
+    "new_id": 475,
+    "piece": "s·w"
+  },
+  {
+    "rank": 220,
+    "pair": [
+      261,
+      285
+    ],
+    "new_id": 476,
+    "piece": "s·st"
+  },
+  {
+    "rank": 221,
+    "pair": [
+      263,
+      472
+    ],
+    "new_id": 477,
+    "piece": "er·than"
+  },
+  {
+    "rank": 222,
+    "pair": [
+      265,
+      119
+    ],
+    "new_id": 478,
+    "piece": "·the·w"
+  },
+  {
+    "rank": 223,
+    "pair": [
+      268,
+      116
+    ],
+    "new_id": 479,
+    "piece": "ent"
+  },
+  {
+    "rank": 224,
+    "pair": [
+      269,
+      348
+    ],
+    "new_id": 480,
+    "piece": "·shap"
+  },
+  {
+    "rank": 225,
+    "pair": [
+      269,
+      366
+    ],
+    "new_id": 481,
+    "piece": "·small"
+  },
+  {
+    "rank": 226,
+    "pair": [
+      269,
+      466
+    ],
+    "new_id": 482,
+    "piece": "·symb"
+  },
+  {
+    "rank": 227,
+    "pair": [
+      270,
+      264
+    ],
+    "new_id": 483,
+    "piece": "ound"
+  },
+  {
+    "rank": 228,
+    "pair": [
+      270,
+      276
+    ],
+    "new_id": 484,
+    "piece": "outh"
+  },
+  {
+    "rank": 229,
+    "pair": [
+      270,
+      382
+    ],
+    "new_id": 485,
+    "piece": "ough"
+  },
+  {
+    "rank": 230,
+    "pair": [
+      271,
+      293
+    ],
+    "new_id": 486,
+    "piece": "ingle·"
+  },
+  {
+    "rank": 231,
+    "pair": [
+      273,
+      97
+    ],
+    "new_id": 487,
+    "piece": "·wa"
+  },
+  {
+    "rank": 232,
+    "pair": [
+      273,
+      256
+    ],
+    "new_id": 488,
+    "piece": "·we·"
+  },
+  {
+    "rank": 233,
+    "pair": [
+      273,
+      305
+    ],
+    "new_id": 489,
+    "piece": "·word"
+  },
+  {
+    "rank": 234,
+    "pair": [
+      273,
+      309
+    ],
+    "new_id": 490,
+    "piece": "·wri"
+  },
+  {
+    "rank": 235,
+    "pair": [
+      276,
+      271
+    ],
+    "new_id": 491,
+    "piece": "thing"
+  },
+  {
+    "rank": 236,
+    "pair": [
+      277,
+      432
+    ],
+    "new_id": 492,
+    "piece": ".·You"
+  },
+  {
+    "rank": 237,
+    "pair": [
+      282,
+      114
+    ],
+    "new_id": 493,
+    "piece": "s·ar"
+  },
+  {
+    "rank": 238,
+    "pair": [
+      285,
+      258
+    ],
+    "new_id": 494,
+    "piece": "st·a"
+  },
+  {
+    "rank": 239,
+    "pair": [
+      287,
+      260
+    ],
+    "new_id": 495,
+    "piece": "ing·in"
+  },
+  {
+    "rank": 240,
+    "pair": [
+      289,
+      267
+    ],
+    "new_id": 496,
+    "piece": "·par"
+  },
+  {
+    "rank": 241,
+    "pair": [
+      290,
+      119
+    ],
+    "new_id": 497,
+    "piece": "how"
+  },
+  {
+    "rank": 242,
+    "pair": [
+      290,
+      293
+    ],
+    "new_id": 498,
+    "piece": "hole·"
+  },
+  {
+    "rank": 243,
+    "pair": [
+      294,
+      442
+    ],
+    "new_id": 499,
+    "piece": "behind"
+  },
+  {
+    "rank": 244,
+    "pair": [
+      296,
+      121
+    ],
+    "new_id": 500,
+    "piece": "very"
+  },
+  {
+    "rank": 245,
+    "pair": [
+      296,
+      269
+    ],
+    "new_id": 501,
+    "piece": "ver·s"
+  },
+  {
+    "rank": 246,
+    "pair": [
+      298,
+      439
+    ],
+    "new_id": 502,
+    "piece": "·a·fi"
+  },
+  {
+    "rank": 247,
+    "pair": [
+      299,
+      272
+    ],
+    "new_id": 503,
+    "piece": ",·on"
+  },
+  {
+    "rank": 248,
+    "pair": [
+      299,
+      306
+    ],
+    "new_id": 504,
+    "piece": ",·you"
+  },
+  {
+    "rank": 249,
+    "pair": [
+      301,
+      259
+    ],
+    "new_id": 505,
+    "piece": "ed·th"
+  },
+  {
+    "rank": 250,
+    "pair": [
+      302,
+      399
+    ],
+    "new_id": 506,
+    "piece": "·morn"
+  },
+  {
+    "rank": 251,
+    "pair": [
+      309,
+      118
+    ],
+    "new_id": 507,
+    "piece": "riv"
+  },
+  {
+    "rank": 252,
+    "pair": [
+      313,
+      115
+    ],
+    "new_id": 508,
+    "piece": "·tokens"
+  },
+  {
+    "rank": 253,
+    "pair": [
+      319,
+      267
+    ],
+    "new_id": 509,
+    "piece": "liar"
+  },
+  {
+    "rank": 254,
+    "pair": [
+      320,
+      379
+    ],
+    "new_id": 510,
+    "piece": "model"
+  },
+  {
+    "rank": 255,
+    "pair": [
+      323,
+      367
+    ],
+    "new_id": 511,
+    "piece": "e·the·letters·"
+  }
+]

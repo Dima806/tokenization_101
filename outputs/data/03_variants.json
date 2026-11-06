@@ -1,0 +1,61 @@
+[
+  {
+    "variant": "strawberry",
+    "num_tokens": 8,
+    "pieces": [
+      "st",
+      "r",
+      "a",
+      "w",
+      "b",
+      "er",
+      "r",
+      "y"
+    ]
+  },
+  {
+    "variant": " strawberry",
+    "num_tokens": 8,
+    "pieces": [
+      " st",
+      "r",
+      "a",
+      "w",
+      "b",
+      "er",
+      "r",
+      "y"
+    ]
+  },
+  {
+    "variant": "Strawberry",
+    "num_tokens": 9,
+    "pieces": [
+      "S",
+      "t",
+      "r",
+      "a",
+      "w",
+      "b",
+      "er",
+      "r",
+      "y"
+    ]
+  },
+  {
+    "variant": "STRAWBERRY",
+    "num_tokens": 10,
+    "pieces": [
+      "S",
+      "T",
+      "R",
+      "A",
+      "W",
+      "B",
+      "E",
+      "R",
+      "R",
+      "Y"
+    ]
+  }
+]

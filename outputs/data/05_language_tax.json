@@ -1,0 +1,86 @@
+[
+  {
+    "language": "English",
+    "text": "I would like a cup of coffee.",
+    "tokens": 17,
+    "ratio_to_english": 1.0,
+    "usd_per_call": 0.00017
+  },
+  {
+    "language": "Spanish",
+    "text": "Me gustaría una taza de café.",
+    "tokens": 24,
+    "ratio_to_english": 1.412,
+    "usd_per_call": 0.00024
+  },
+  {
+    "language": "French",
+    "text": "Je voudrais une tasse de café.",
+    "tokens": 22,
+    "ratio_to_english": 1.294,
+    "usd_per_call": 0.00022
+  },
+  {
+    "language": "German",
+    "text": "Ich hätte gerne eine Tasse Kaffee.",
+    "tokens": 26,
+    "ratio_to_english": 1.529,
+    "usd_per_call": 0.00026
+  },
+  {
+    "language": "Portuguese",
+    "text": "Eu gostaria de uma xícara de café.",
+    "tokens": 27,
+    "ratio_to_english": 1.588,
+    "usd_per_call": 0.00027
+  },
+  {
+    "language": "Ukrainian",
+    "text": "Я хотів би чашку кави.",
+    "tokens": 39,
+    "ratio_to_english": 2.294,
+    "usd_per_call": 0.00039
+  },
+  {
+    "language": "Greek",
+    "text": "Θα ήθελα ένα φλιτζάνι καφέ.",
+    "tokens": 49,
+    "ratio_to_english": 2.882,
+    "usd_per_call": 0.00049
+  },
+  {
+    "language": "Hindi",
+    "text": "मुझे एक कप कॉफ़ी चाहिए।",
+    "tokens": 61,
+    "ratio_to_english": 3.588,
+    "usd_per_call": 0.00061
+  },
+  {
+    "language": "Chinese",
+    "text": "我想要一杯咖啡。",
+    "tokens": 24,
+    "ratio_to_english": 1.412,
+    "usd_per_call": 0.00024
+  },
+  {
+    "language": "Japanese",
+    "text": "コーヒーを一杯お願いします。",
+    "tokens": 42,
+    "ratio_to_english": 2.471,
+    "usd_per_call": 0.00042
+  },
+  {
+    "language": "Korean",
+    "text": "커피 한 잔 주세요.",
+    "tokens": 25,
+    "ratio_to_english": 1.471,
+    "usd_per_call": 0.00025
+  },
+  {
+    "language": "Arabic",
+    "text": "أريد فنجان قهوة.",
+    "tokens": 29,
+    "ratio_to_english": 1.706,
+    "usd_per_call": 0.00029
+  }
+]

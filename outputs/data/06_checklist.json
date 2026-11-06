@@ -1,0 +1,7 @@
+{
+  "model_sees_tokens": "Never ask the model to operate on characters it cannot see (spelling, reversing, counting) without a tool or a character-level view.",
+  "arithmetic": "Distrust raw multi-digit arithmetic; route it to a calculator or use digit-level handling.",
+  "budget_tokens": "Budget tokens, not words; measure the per-language tax before scoping multilingual work.",
+  "vocab_size": "Larger vocab -> shorter sequences but more embedding parameters and worse rare-token handling.",
+  "when_it_matters": "Tokenization matters most for cost, context limits, multilingual, character-level tasks, and code."
+}

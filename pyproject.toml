@@ -1,0 +1,132 @@
+[project]
+name = "tokenization-101"
+version = "0.1.0"
+description = "Tokenization 101: your model cannot spell because it never sees letters"
+readme = "README.md"
+license = "Apache-2.0"
+requires-python = ">=3.11"
+authors = [{ name = "Dmytro Iakubovskyi" }]
+keywords = [
+    "tokenization",
+    "bpe",
+    "byte-pair-encoding",
+    "nlp",
+    "llm",
+    "education",
+    "data-science",
+]
+classifiers = [
+    "Development Status :: 4 - Beta",
+    "Intended Audience :: Education",
+    "Intended Audience :: Science/Research",
+    "License :: OSI Approved :: Apache Software License",
+    "Programming Language :: Python :: 3 :: Only",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Topic :: Scientific/Engineering :: Artificial Intelligence",
+    "Topic :: Text Processing :: Linguistic",
+]
+
+# Runtime dependencies. The BPE tokenizer itself is built from scratch;
+# tiktoken and tokenizers are used ONLY to validate the from-scratch version.
+dependencies = [
+    "tiktoken>=0.7",
+    "tokenizers>=0.20",
+    "regex>=2024.5",
+    "numpy>=1.26",
+    "pandas>=2.2",
+    "matplotlib>=3.9",
+    "plotly>=5.22",
+    "streamlit>=1.38",
+    "pydantic>=2.9",
+    "pydantic-settings>=2.5",
+    "pyyaml>=6.0",
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest>=8.3",
+    "pytest-cov>=5.0",       # required by `make test-cov`
+    "ruff>=0.8",
+    "ty>=0.0.1a7",
+    "jupyter>=1.1",
+    "ipykernel>=6.29",
+    "nbconvert>=7.16",
+    "nbclient>=0.10",
+]
+
+[project.urls]
+Homepage = "https://github.com/Dima806/tokenization_101"
+Repository = "https://github.com/Dima806/tokenization_101"
+
+# ---------------------------------------------------------------------------
+# uv
+# ---------------------------------------------------------------------------
+# This is a learning repo whose code is imported as `src.*` (e.g.
+# `src.bpe.train`, `src.datasets.corpora`), so the repository root is the
+# import root. We therefore treat it as a non-packaged ("virtual") project:
+# `uv sync` builds a venv with the dependencies but does not build/install
+# `src` as a distribution. `src` is resolved from the project root at runtime
+# (cwd for `python -m ...`, and `pythonpath` below for pytest).
+[tool.uv]
+package = false
+
+# ---------------------------------------------------------------------------
+# Ruff (lint + format)
+# ---------------------------------------------------------------------------
+[tool.ruff]
+target-version = "py311"
+line-length = 99
+src = ["src", "tests", "app"]
+extend-exclude = ["outputs", "data", ".ipynb_checkpoints"]
+
+[tool.ruff.lint]
+select = ["E", "F", "W", "I", "UP", "N", "B", "A", "SIM", "PTH"]
+ignore = ["E501"]  # line-length is enforced by the formatter, not the linter
+
+[tool.ruff.lint.per-file-ignores]
+# Re-exports in package initialisers are intentional.
+"__init__.py" = ["F401"]
+# Notebooks and the app may shadow builtins / use demo-style names freely.
+"notebooks/*" = ["E402", "F401", "A001", "N"]
+"app/*" = ["A001"]
+
+[tool.ruff.lint.isort]
+known-first-party = ["src"]
+
+[tool.ruff.format]
+docstring-code-format = true
+
+# ---------------------------------------------------------------------------
+# ty (type checker)
+# ---------------------------------------------------------------------------
+[tool.ty.environment]
+python-version = "3.11"
+
+# ---------------------------------------------------------------------------
+# pytest
+# ---------------------------------------------------------------------------
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["."]            # makes `import src...` resolve from the repo root
+addopts = "-v --tb=short"
+markers = [
+    "slow: marks tests as slow (deselect with '-m \"not slow\"')",
+]
+
+# ---------------------------------------------------------------------------
+# coverage (used by `make test-cov`)
+# ---------------------------------------------------------------------------
+[tool.coverage.run]
+source = ["src"]
+branch = true
+omit = ["*/__init__.py"]
+
+[tool.coverage.report]
+show_missing = true
+skip_empty = true
+exclude_lines = [
+    "pragma: no cover",
+    "if __name__ == .__main__.:",
+    "raise NotImplementedError",
+]
